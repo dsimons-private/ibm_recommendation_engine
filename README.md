@@ -31,5 +31,5 @@ Methods covered in this project:
 ## Usage
 This project requires Python 3.x and the following Python
 
-1.  **Open the `Recommendations_with_IBM.ipynb` notebook:**  Use Jupyter Notebook, JupyterLab, or Google Colab to open the notebook.
-2.  **Run the notebook:** Execute the cells in the notebook sequentially.  Ensure that all necessary libraries are installed (see any requirements mentioned within the notebook itself).
+1.  **Open the `Recommendations_with_IBM.ipynb` notebook:**  e.g. by opening Jupyter Notebook
+2.  **Run the notebook:** Sequentially execute the cells in the notebook.
